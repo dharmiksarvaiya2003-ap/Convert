@@ -1,4 +1,0 @@
-streamlit>=1.32
-Pillow>=10.0
-numpy>=1.26
-scipy>=1.11
